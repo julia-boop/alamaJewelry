@@ -9,7 +9,6 @@ app.get('/', (req, res) => {
     res.render('home')
 })
 
-app.listen(3000, () => {
-    console.log('servidor corriendo...')
-    console.log(path.join(__dirname, '/public'))
+app.listen(process.env.PORT || 3000, () => {
+    console.log("El servidor esta corriendo...")
 })
