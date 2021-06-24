@@ -12,7 +12,8 @@
 }
 
 .logo{
-    width: 100vw;
+    width: 100%;
+    height: auto;
     display: flex;
 }
 
@@ -113,6 +114,7 @@
 @media(max-width:760px){
    .logo img{
        width: 160px!important;
+       height: auto;
    }
 
    .list li a {
