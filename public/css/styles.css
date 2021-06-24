@@ -114,7 +114,7 @@
 @media(max-width:760px){
    .logo img{
        width: 160px!important;
-       height: auto;
+       height: 150px!important;
    }
 
    .list li a {
