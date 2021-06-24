@@ -112,7 +112,7 @@
 
 @media(max-width:760px){
    .logo img{
-       width: 160px;
+       width: 160px!important;
    }
 
    .list li a {
