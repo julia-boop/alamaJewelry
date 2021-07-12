@@ -116,7 +116,7 @@
        width: 200px!important;
        padding-bottom: 20px;
        padding-top: 20px;
-       height: auto;
+       height: 75px!important;
    }
 
    .list li a {
