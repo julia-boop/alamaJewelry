@@ -5,12 +5,12 @@ window.addEventListener('load', () => {
 
     if(window.innerWidth <= 760){
         arg.innerHTML = 'shop arg'
-        eu.innerHTML = 'shop eu'
+        eu.innerHTML = 'shop eu Comming Soon'
         logo.innerHTML = '<img src="/img/logoAlta.png" alt="">'
     }
     if(window.innerWidth > 760) {
         arg.innerHTML = 'shop argentina'
-        eu.innerHTML = 'shop europe'
+        eu.innerHTML = 'shop europe Comming Soon'
         logo.innerHTML = '<img src="/img/logo1.png" alt="">'
     }
 })
