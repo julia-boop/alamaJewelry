@@ -5,7 +5,7 @@ window.addEventListener('load', () => {
 
     if(window.innerWidth <= 760){
         arg.innerHTML = 'shop arg'
-        eu.innerHTML = 'shop eu Comming Soon'
+        eu.innerHTML = 'shop eu Coming Soon'
         logo.innerHTML = '<img src="/img/logoAlta.png" alt="">'
     }
     if(window.innerWidth > 760) {
