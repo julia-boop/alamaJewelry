@@ -1,4 +1,4 @@
-//document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
     let arg = document.querySelector('#header-arg')
     let int =  document.querySelector('#header-int')
     let liArg =  document.querySelector('#header-li-arg')
@@ -17,4 +17,4 @@
         int.innerHTML = 'Shop Internacional'
         logo.innerHTML = '<img src="/img/logo1.png" alt="">'
     }
-//})
+})
